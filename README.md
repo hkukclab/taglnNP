@@ -9,3 +9,7 @@ Danny Chan<sup>1,2</sup>, Michael K.T. To<sup>2,3</sup>, Kathryn S.E. Cheah<sup>
 
 # processed data
 See our interactive web portal at https://www.sbms.hku.hk/kclab/taglnNP
+
+
+# RAW data
+The mouse scRNA-seq and human bulk RNA-seq data were deposited on NCBI GEO with accession numbers GSE186549 [token: not available yet] and GSE201396 [token: not available yet], respectively. 
