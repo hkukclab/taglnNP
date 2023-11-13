@@ -6,7 +6,7 @@ Zhijia Tan<sup>1,,2,3,4,6</sup>, Peikai Chen<sup>1,2,3,6</sup>, Xiaonan Dong<sup
 <sup>2</sup>Department of Orthopaedics and Traumatology, The University of Hong Kong-Shenzhen Hospital, Shenzhen, China
 <sup>3</sup>Shenzhen Clinical Research Center for Rare Diseases, The University of Hong Kong-Shenzhen Hospital, Shenzhen, China
 <sup>4</sup>Department of Orthopaedics and Traumatology, School of Clinical Medicine, LKS Faculty of Medicine, The University of Hong Kong, Hong Kong
-<sup>5</sup>Division of Cell Matrix Biology and Regenerative Medicine, School of Biological Sciences, Faculty of Biology, Medicine and Health, Manchester Academic Health Sciences Centre, The The University of Manchester, Manchester, M13 9PT, UK.
+<sup>5</sup>Division of Cell Matrix Biology and Regenerative Medicine, School of Biological Sciences, Faculty of Biology, Medicine and Health, Manchester Academic Health Science Centre, The University of Manchester, Manchester, M13 9PT, UK.
 
 <sup>6</sup>These authors contributed equally to this work.
 
